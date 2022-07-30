@@ -5,3 +5,4 @@ Here are some resources I used when learning spring boot from scratch.
 * 2022.7.23 Thinking in Java P200-P379
 * 2022.7.24 Thinking in Java P379-P623
 * 2022.7.25 Thinking in Java P623-P650(end)
+* 2022.7.30 SpringBoot in Action P1-P66
