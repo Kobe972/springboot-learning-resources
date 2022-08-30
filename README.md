@@ -8,4 +8,4 @@ Here are some resources I used when learning spring boot from scratch.
 * 2022.7.30 SpringBoot in Action P1-P66
 * 2022.8.12 SpringBoot in Action completed, SpringBoot Reference Guide P1-P100
 * 2022.8.17 SpringBoot Reference Guide P100-P327
-* 2022.8.30 SpringBoot Reference Guide P327-P493
+* 2022.8.30 SpringBoot Reference Guide P327-P635(end)
