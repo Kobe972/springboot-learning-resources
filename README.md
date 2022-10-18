@@ -12,4 +12,4 @@ Here are some resources I used when learning spring boot from scratch.
 * 2022.9.14 深入浅出springboot P1-P156
 * 2022.9.27 深入浅出springboot P156-P219
 * 2022.10.11 深入浅出springboot P219-P349
-* 2022.10.18 深入浅出springboot P350-P428
+* 2022.10.18 深入浅出springboot P350-P428(end)
